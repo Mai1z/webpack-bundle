@@ -1,0 +1,24 @@
+{
+  "name": "webpack-build",
+  "version": "1.0.0",
+  "description": "my webpack version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mai1z/webpack-bundle.git"
+  },
+  "keywords": [
+    "webpack",
+    "javascript",
+    "js"
+  ],
+  "author": "Prytkin Artem <prytkinart@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mai1z/webpack-bundle/issues"
+  },
+  "homepage": "https://github.com/Mai1z/webpack-bundle#readme"
+}
